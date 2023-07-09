@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: midnightblue;
+  background-image: url("particle\ animation.gif");
+  background-color: #cccccc;
+
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Georgia', math;
+  text-shadow: 6px 0 #f20707;
+  font-size: 8rem;
+  color: rgb(0, 26, 255);
+}
+
+p {
+  font-size: 3rem;
+  color: #00f7ff;
+  font-family: 'Comic Sans', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+/* footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+} */
